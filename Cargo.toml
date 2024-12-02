@@ -1,0 +1,7 @@
+[package]
+name = "tokei_play"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokei = { version = "12.1.2", features = ["all"] }
